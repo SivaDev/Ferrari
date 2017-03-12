@@ -38,6 +38,7 @@
     </dependency>
   </dependencies>
   <build>
+		<finalName>Ferrari</finalName>
 		<pluginManagement>
 			<plugins>
 				<plugin>
@@ -58,7 +59,4 @@
 			</plugins>
 		</pluginManagement>
 	</build>
-  <build>
-    <finalName>Ferrari</finalName>
-  </build>
 </project>
