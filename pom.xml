@@ -3,14 +3,14 @@
   <groupId>Org.Qedge</groupId>
   <artifactId>Ferrari</artifactId>
   <packaging>war</packaging>
-  <version>0.0.6-SNAPSHOT</version>
+  <version>0.0.6</version>
   <name>Ferrari Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <scm>
 		<connection>scm:git:git@github.com:SivaDev/Ferrari.git</connection>
 		<url>scm:git:git@github.com:SivaDev/Ferrari.git</url>
 		<developerConnection>scm:git:git@github.com:SivaDev/Ferrari.git</developerConnection>
-		<tag>HEAD</tag>
+		<tag>Ferrari-0.0.6</tag>
   </scm>
   <distributionManagement>
 		<!-- Publish the versioned releases here -->
